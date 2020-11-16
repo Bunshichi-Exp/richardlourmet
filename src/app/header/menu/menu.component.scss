@@ -24,15 +24,13 @@
 
   #navbar {
     overflow: hidden;
-    background-color: #f2f2f2;
-    color: #f2f2f2;
     z-index: 7;
   }
 
   #navbar a {
     float: left;
     display: block;
-    color:#333;
+    color:white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -46,7 +44,7 @@
   }
 
   #navbar a:hover {
-    background-color:#4CAF50;
+    background-color:#444444;
     color: black;
   }
 
@@ -80,14 +78,8 @@
     margin: auto auto;
   }
 
-  .logo{
-    width:120px;
-  }
+  // .logo{
+  //   width:120px;
+  // }
 
-$color-red: #FF0000;
-$color-black: #222222;
-
-h1 { color: $color-red; }
-p { color: $color-black; }
-
-.fond {color: $color-black;}
+  
